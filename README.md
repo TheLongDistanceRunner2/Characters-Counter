@@ -1,3 +1,5 @@
+# Characters Counter / Licznik znaków
+
 Java console application for creating a histogram of percentage of the occurence of each letter and number in the given .txt file.
 
 =====================================================
